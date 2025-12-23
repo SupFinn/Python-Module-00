@@ -1,14 +1,2 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    ft_hello_garden.py                                 :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: rhssayn <rhssayn@student.1337.ma>          +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2025/12/22 14:18:39 by rhssayn           #+#    #+#              #
-#    Updated: 2025/12/22 14:34:42 by rhssayn          ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
-def	hello_garden():
-	print("Hello, Garden Community")
+def ft_hello_garden() -> None:
+    print("Hello, Garden Community!")
