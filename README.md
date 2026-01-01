@@ -1,7 +1,7 @@
+*This project has been created as part of the 42 curriculum by rhssayn.*
+
 # 🌱 Growing Code  
 ### *Python Fundamentals Through Garden Data*
-
-> *This project has been created as part of the 42 Network curriculum.*
 
 ---
 
